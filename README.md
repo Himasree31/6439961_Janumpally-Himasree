@@ -1,1 +1,1 @@
-it contains bootstrap files
+it contains css files
